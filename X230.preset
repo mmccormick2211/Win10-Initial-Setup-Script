@@ -1,0 +1,142 @@
+# Default preset
+
+RequireAdmin
+
+DisableTelemetry
+DisableWiFiSense
+EnableSmartScreen
+DisableWebSearch
+DisableAppSuggestions
+DisableActivityHistory
+DisableBackgroundApps
+DisableLocationTracking
+DisableMapUpdates
+DisableFeedback
+DisableTailoredExperiences
+DisableAdvertisingID
+DisableWebLangList
+DisableCortana
+DisableErrorReporting
+SetP2PUpdateLocal
+DisableDiagTrack
+DisableWAPPush
+
+SetUACLow
+# EnableSharingMappedDrives
+DisableAdminShares
+DisableSMB1
+# DisableSMBServer
+# DisableLLMNR
+SetCurrentNetworkPrivate
+SetUnknownNetworksPublic
+# DisableNetDevicesAutoInst
+# EnableCtrldFolderAccess
+# DisableFirewall
+# DisableDefender
+# DisableDefenderCloud
+EnableF8BootMenu
+SetDEPOptIn
+EnableCIMemoryIntegrity
+DisableScriptHost
+EnableDotNetStrongCrypto
+# EnableMeltdownCompatFlag
+
+# DisableUpdateMSRT
+# DisableUpdateDriver
+DisableUpdateRestart
+DisableHomeGroups
+DisableSharedExperiences
+DisableRemoteAssistance
+EnableRemoteDesktop
+DisableAutoplay
+DisableAutorun
+EnableStorageSense
+DisableDefragmentation
+# DisableSuperfetch
+DisableIndexing
+SetBIOSTimeUTC
+# EnableHibernation
+# DisableSleepButton
+# DisableSleepTimeout
+# DisableFastStartup
+
+EnableActionCenter
+EnableLockScreen
+# DisableLockScreenRS1
+HideNetworkFromLockScreen
+HideShutdownFromLockScreen
+DisableStickyKeys
+ShowTaskManagerDetails
+ShowFileOperationsDetails
+EnableFileDeleteConfirm
+HideTaskbarSearch
+HideTaskView
+ShowSmallTaskbarIcons
+SetTaskbarCombineWhenFull
+HideTaskbarPeopleIcon
+ShowTrayIcons
+EnableSearchAppInStore
+EnableNewAppPrompt
+# SetControlPanelSmallIcons
+SetVisualFXPerformance
+# AddENKeyboard
+# EnableNumlock
+
+ShowKnownExtensions
+ShowHiddenFiles
+HideSelectCheckboxes
+HideSyncNotifications
+HideRecentShortcuts
+SetExplorerThisPC
+ShowThisPCOnDesktop
+ShowUserFolderOnDesktop
+HideDesktopFromThisPC
+ShowDesktopFromExplorer
+HideDocumentsFromThisPC
+ShowDocumentsFromExplorer
+HideDownloadsFromThisPC
+ShowDownloadsFromExplorer
+HideMusicFromThisPC
+HideMusicFromExplorer
+HidePicturesFromThisPC
+HidePicturesFromExplorer
+HideVideosFromThisPC
+HideVideosFromExplorer
+Hide3DObjectsFromThisPC
+Hide3DObjectsFromExplorer
+DisableThumbnails
+DisableThumbnailCache
+DisableThumbsDBOnNetwork
+
+EnableOneDrive
+InstallOneDrive
+UninstallMsftBloat
+UninstallThirdPartyBloat
+# UninstallWindowsStore
+DisableXboxFeatures
+DisableAdobeFlash
+DisableEdgeShortcutCreation
+UninstallMediaPlayer
+# UninstallInternetExplorer
+# UninstallWorkFolders
+InstallLinuxSubsystem
+InstallHyperV
+SetPhotoViewerAssociation
+AddPhotoViewerOpenWith
+# UninstallPDFPrinter
+UninstallXPSPrinter
+RemoveFaxPrinter
+# UninstallFaxAndScan
+
+# HideServerManagerOnLogin
+# DisableShutdownTracker
+# DisablePasswordPolicy
+# DisableCtrlAltDelLogin
+# DisableIEEnhancedSecurity
+# EnableAudio
+
+UnpinStartMenuTiles
+UnpinTaskbarIcons
+
+WaitForKey
+Restart
